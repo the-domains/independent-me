@@ -6,9 +6,9 @@ color:
   saturation: 0.5547397050540894
   rhythmicContrast: 0.9929006875026971
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#424242'
+    - '#297D36'
+    - '#3A6BB3'
+    - '#000000'
+    - '#0055AA'
 name: independent me
