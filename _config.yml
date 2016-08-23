@@ -1,0 +1,14 @@
+layout_spectrum: 0.7526327650994062
+typography_spectrum: 0.8960787919349968
+color:
+  brandStrength: 0.39220427675172687
+  lightness: 0.5522240796126425
+  saturation: 0.5547397050540894
+  rhythmicContrast: 0.9929006875026971
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: independent me
